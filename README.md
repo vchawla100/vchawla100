@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vchawla100
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ... ML assisting projects
+- 🌱 I’m currently learning ... Advanced Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on ... Full Stack assisting projects
 - 📫 How to reach me ... varunchawla1511@gmail.com
 
 <!---
